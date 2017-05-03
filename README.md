@@ -17,3 +17,13 @@ Skeleton has a number of small utility classes that act as easy-to-use helpers. 
 
 Skeleton uses media queries to serve its scalable grid, but also has a list of queries for convenience of styling your site across devices. The queries are mobile-first, meaning they target min-width. Mobile-first queries are how Skeleton's grid is built and is the preferrable method of organizing CSS. It means all styles outside of a query apply to all devices, then larger devices are targeted for enhancement. This prevents small devices from having to parse tons of unused CSS. The sizes for the queries are:
 
+##Typography
+
+Type is all set with the rems, so font-sizes and spacial relationships can be responsively sized based on a single <html> font-size property. Out of the box, Skeleton never changes the <html> font-size, but it's there in case you need it for your project. All measurements are still base 10 though so, an <h1> with 5.0remfont-size just means 50px.
+
+The typography base is Raleway served by Google, set at 15rem (15px) over a 1.6 line height (24px). Other type basics like anchors, strong, emphasis, and underline are all obviously included.
+
+Headings create a family of distinct sizes each with specific letter-spacing, line-height, and margins.
+
+<img src="http://i.imgur.com/y5MZjqL.png" width="80%">
+
