@@ -1,6 +1,6 @@
 
-# <img src="http://i.imgur.com/QcRSowW.png" width="20%"> Lightning Talks
-
+#  Lightning Talks
+<img src="http://i.imgur.com/QcRSowW.png" width="20%">
 ## Skeleton Framework
 
 An easy to use, responsive boilerplate. It's easy to start and requires no installation. 
