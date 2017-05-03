@@ -25,5 +25,5 @@ The typography base is Raleway served by Google, set at 15rem (15px) over a 1.6 
 Headings create a family of distinct sizes each with specific letter-spacing, line-height, and margins.
 
 
-<img src="http://i.imgur.com/y5MZjqL.png" width="10%">
+<img src="http://i.imgur.com/y5MZjqL.png" width="50%">
 
